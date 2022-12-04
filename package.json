@@ -1,0 +1,21 @@
+{
+  "name": "sunday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahaahaddad/sunday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahaahaddad/sunday/issues"
+  },
+  "homepage": "https://github.com/bahaahaddad/sunday#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
